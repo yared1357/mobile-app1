@@ -166,7 +166,7 @@ export const ProfileView = ({ profile, onSave }: ProfileViewProps) => {
                 Cancel
               </Button>
               <Button type="submit" className="flex-[2] py-4 rounded-2xl flex items-center justify-center gap-2">
-                <Save className="w-5 h-5" /> Save Changes
+                <Save className="w-5 h-5" /> Save
               </Button>
             </div>
           </motion.form>
